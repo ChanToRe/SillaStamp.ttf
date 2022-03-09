@@ -1,6 +1,20 @@
-# 신라 인화문 딩벳 폰트
+# 신라 인화문 폰트 (Silla Stamp Font)
 
-### SHIFT + A~Z
+## 소개
+'인화문토기'는 신라-통일신라시대(6~9세기) 동안 유행했던 토기입니다. 신라인들은 다양한 문양을 도장으로 만든 뒤, 이를 이용하여 토기전체를 촘촘하고 화려하게 장식했습니다. 신라인들의 미적감각이 담긴 인화문을 폰트로 사용해보세요.
+* 무료로 자유롭게 사용하실 수 있습니다. 다만, 이를 유료로 배포하는 것은 금지합니다.(MIT License)
+
+## 설치 & 사용
+1. Release에서 폰트를 다운로드 해주세요.
+2. SillaStamp.ttf 파일을 운영체제에 따라 알맞게 설치해주세요.
+  - Window : "C:\Windows\Fonts"에 SillaStamp.ttf 파일을 이동해주세요.
+  - Mac : SillaStamp.ttf 파일을 더블클릭하여 설치해주세요.
+3. 아래의 문양 목록에서 문양을 확인하고 사용하고자 하는 문양과 대응되는 대문자 알파벳을 입력해주세요. (Shift + a~z)
+```
+Shift + a~z or A~Z
+```
+
+## 문양 목록
 
 |A|B|C|D|E|
 |:---:|:---:|:---:|:---:|:---:|
@@ -29,7 +43,8 @@
 
 |Z|-|-|-|-|
 |:---:|:---:|:---:|:---:|:---:|
-|<img src="https://github.com/ChanToRe/SillaStamp.ttf/blob/main/PNG/%EB%8A%A5%ED%98%95%EB%AC%B8.png?raw=true" width="50%">|<img src="https://github.com/ChanToRe/ChanToRe.github.io/blob/master/images/imogi.png?raw=true" width="100%">|<img src="https://github.com/ChanToRe/ChanToRe.github.io/blob/master/images/imogi.png?raw=true" width="100%">|<img src="https://github.com/ChanToRe/ChanToRe.github.io/blob/master/images/imogi.png?raw=true" width="100%">|<img src="https://github.com/ChanToRe/ChanToRe.github.io/blob/master/images/imogi.png?raw=true" width="100%">|
+|<img src="https://github.com/ChanToRe/SillaStamp.ttf/blob/main/PNG/%EB%8A%A5%ED%98%95%EB%AC%B8.png?raw=true" width="25%">|<img src="https://github.com/ChanToRe/ChanToRe.github.io/blob/master/images/imogi.png?raw=true" width="100%">|<img src="https://github.com/ChanToRe/ChanToRe.github.io/blob/master/images/imogi.png?raw=true" width="100%">|<img src="https://github.com/ChanToRe/ChanToRe.github.io/blob/master/images/imogi.png?raw=true" width="100%">|<img src="https://github.com/ChanToRe/ChanToRe.github.io/blob/master/images/imogi.png?raw=true" width="100%">|
 |다변화문-1|감|사|해|요|
 
-### 아직 작성중
+## 참고문헌
+- 이동헌, 2011, 『統一新羅 開始期의 印花文土器』, 「한국고고학보」 81, 한국고고학회.
